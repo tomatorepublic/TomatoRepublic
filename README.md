@@ -1,7 +1,7 @@
 <code>🎓 Student: KPI / IM-11</code>
-<code>👷 Speciality: Software engineer</code><br>
+<code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
+<code>🧻 [Projects](PROJECTS.md)</code><br>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, Swift</code>
 <code>📦 Tech stack: node.js</code>
