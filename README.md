@@ -1,5 +1,5 @@
 <code>🎓 Student: KPI / IM-11</code>
-<code>👷 Speciality: Software engineer</code>
+<code>👷 Speciality: Software Engineer / iOS Developer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code><br>
 <code>📢 [Public talks: 0](TALKS.md)</code>
